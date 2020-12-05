@@ -1,0 +1,34 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.btn_link{
+    color:#54268c;
+    border: 1px solid #54268c;
+    padding: 10px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.btn_link:hover{
+    color:#fff;
+    background-color: #54268c;
+}
+
+
+@media (max-width: 768px) {
+   embed{
+       height:100px !important;
+       margin-top:230px !important;
+   } 
+
+   .btn_link{
+    color:#54268c;
+    background-color: #fff;
+    border: 1px solid #54268c;
+    padding: 10px;
+    font-weight: 500;
+
+    margin-right: 20px;
+}
+}
