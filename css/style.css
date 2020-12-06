@@ -9,6 +9,11 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
+nav a img{
+    width: 150px;
+    height:100px;
+}
+
 .img-slider{
     padding-top:80px;
 }
